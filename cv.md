@@ -22,3 +22,5 @@ function multiply(a, b){
 }
 ```
 ____
+###### Education
+Vocational education(technician-programmer)
