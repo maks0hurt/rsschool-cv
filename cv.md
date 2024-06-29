@@ -27,7 +27,7 @@ function multiply(a, b){
 -----
 
 ###### Experience
-[My CV№1](https://maks0hurt.github.io/rsschool-cv/cv)
+[My CV№1](https://maks0hurt.github.io/rsschool-cv/cv "my first project")
 
 *****
 
