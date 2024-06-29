@@ -29,12 +29,12 @@ function multiply(a, b){
 ###### Experience
 [My CV№1](https://maks0hurt.github.io/rsschool-cv/cv "my first project")
 
-*****
+-----
 
 ###### Education
 Vocational education(technician-programmer)
 College of Commerce and Economics.
-Faculty of Information Technology Software
+Faculty of Information Technology Software.
 
 -----
 
@@ -42,3 +42,5 @@ Faculty of Information Technology Software
 - Russian - Native
 - Belarusian - Native
 - English - A2 (There was no language practice)
+
+-----
