@@ -24,6 +24,8 @@ function multiply(a, b){
 ____
 ###### Education
 Vocational education(technician-programmer)
+College of Commerce and Economics.
+Faculty of Information Technology Software
 ____
 ###### Languages:
 - Russian - Native
