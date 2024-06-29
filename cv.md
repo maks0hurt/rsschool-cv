@@ -24,3 +24,8 @@ function multiply(a, b){
 ____
 ###### Education
 Vocational education(technician-programmer)
+____
+###### Languages:
+- Russian - Native
+- Belarusian - Native
+- English - A2 (There was no language practice)
