@@ -35,8 +35,8 @@ function multiply(a, b){
 Vocational education(technician-programmer)
 College of Commerce and Economics.
 Faculty of Information Technology Software
-*****
 
+-----
 
 ###### Languages:
 - Russian - Native
