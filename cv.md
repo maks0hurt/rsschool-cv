@@ -28,9 +28,10 @@ function multiply(a, b){
 ```
 -----
 
-###### Experience
+###### Experience:
 - [JS Audio player](https://rolling-scopes-school.github.io/maks0hurt-JSFEPRESCHOOL2024Q2/js30-1.2-audio-player/index.html "Audio player")
 - [Game](https://rolling-scopes-school.github.io/maks0hurt-JSFEPRESCHOOL2024Q2/random-game/game.html "My firs game")
+
 -----
 
 ###### Education
